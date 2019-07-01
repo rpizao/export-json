@@ -1,28 +1,29 @@
-
 {
-  "versions": [
-    {
-      "nomeSistema": "SIXXX",
-      "postTitle": "Nota de Versao",
-      "versao": "0.1",
-      "postEntry": "<modelo texto>",
-      "itens": [
-      {
-        "nome": "Sobre esta Versao",
-        "descricao": "<descrever ....>"
-      },
-      {
-        "nome": "Produtos Compatíveis",
-        "descricao": "<descrever ....>"
-      },		
-      {
-        "nome": "Novos Recursos",
-        "descricao": "<descrever ....>"
-      },
-      {
-        "nome": "Limitações Conhecidas",
-        "descricao": "<descrever ....>"
-      }
-    }
+  "versions":
+	[
+		{
+			"nomeSistema": "SIXXX",
+			"postTitle": "Nota de Versao",
+			"versao": "0.1",
+			"postEntry": "<modelo texto>",
+			"itens": [
+			  {
+				"nome": "Sobre esta Versao",
+				"descricao": "<descrever ....>"
+			  },
+			  {
+				"nome": "Produtos Compatíveis",
+				"descricao": "<descrever ....>"
+			  },		
+			  {
+				"nome": "Novos Recursos",
+				"descricao": "<descrever ....>"
+			  },
+			  {
+				"nome": "Limitações Conhecidas",
+				"descricao": "<descrever ....>"
+			  }
+			]
+		}
 	]
 }
