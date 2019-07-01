@@ -5,23 +5,23 @@
 			"nomeSistema": "SIXXX",
 			"postTitle": "Nota de Versao",
 			"versao": "0.1",
-			"postEntry": "<modelo texto>",
+			"postEntry": "<h6>Comentário sobre a versão<\h6>",
 			"itens": [
 			  {
 				"nome": "Sobre esta Versao",
-				"descricao": "<descrever ....>"
+				"descricao": "<i>123</i>"
 			  },
 			  {
 				"nome": "Produtos Compatíveis",
-				"descricao": "<descrever ....>"
+				"descricao": "<i>456</i>"
 			  },		
 			  {
 				"nome": "Novos Recursos",
-				"descricao": "<descrever ....>"
+				"descricao": "<i>789</i>"
 			  },
 			  {
 				"nome": "Limitações Conhecidas",
-				"descricao": "<descrever ....>"
+				"descricao": "<i>012</i>"
 			  }
 			]
 		}
