@@ -5,7 +5,7 @@
 			"nomeSistema": "SIXXX",
 			"postTitle": "Nota de Versao",
 			"versao": "0.1",
-			"postEntry": "<h6>Comentário sobre a versão</h6>",
+			"postEntry": "<h6>Sistemas responsável por consectetur adipiscing elit.</h6>",
 			"itens": [
 			  {
 				"nome": "Sobre esta Versao",
@@ -13,15 +13,15 @@
 			  },
 			  {
 				"nome": "Produtos Compatíveis",
-				"descricao": "<i>456</i>"
+				"descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam leo."
 			  },		
 			  {
 				"nome": "Novos Recursos",
-				"descricao": "<i>789</i>"
+				"descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam leo."
 			  },
 			  {
 				"nome": "Limitações Conhecidas",
-				"descricao": "<i>012</i>"
+				"descricao": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam leo.</i>"
 			  }
 			]
 		}
