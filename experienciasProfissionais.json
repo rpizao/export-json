@@ -1,15 +1,12 @@
 {
-    "data": {
-        "login": "rpizao",
-        "nome": "Rafael",
-        "email": "rpizao@gmail.com",
-        "experienciaProfissional": [
-            {
-                "empresa": "XPTO",
-                "cargo": "Analista",
-                "atribuicoes": "Lorem ipsum..."
-            }
-        ]
-    },
-    "codigoError": 200
+    "login": "rpizao",
+    "nome": "Rafael",
+    "email": "rpizao@gmail.com",
+    "experienciaProfissional": [
+        {
+            "empresa": "XPTO",
+            "cargo": "Analista",
+            "atribuicoes": "Lorem ipsum..."
+        }
+    ]
 }
